@@ -1,5 +1,5 @@
 # Hi there - I'm ... idk 🤔
-I'm fullstack web developper since 2018, I'm mainly a Backend developer, but I'm getting better at FrontEnd.
+I'm fullstack web developper since 2018, I'm mainly a FrontEnd developer, but I'm getting better at Backend.
 
 💻 - Here are some stats :
 
