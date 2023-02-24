@@ -49,6 +49,7 @@ const Email = "contact@illyes.codes"
 <img src="https://github-readme-stats.vercel.app/api?username=pastrik&theme=github_dark&show_icons=true"/>
 <img src="https://codestats-readme.avior.me/api/top-langs/?username=PasTrik"/>
 <img src="https://streak-stats.demolab.com/?user=PasTrik"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastrik"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastrik&layout=compact"/>
 </p>
 </details>
