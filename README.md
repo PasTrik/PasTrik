@@ -11,13 +11,9 @@ I am mainly a web developer (fullstack) but I try to learn step by step the desk
 
 ## 🔥・Tools
 
-> The tools I use
-
 ![tools](https://skillicons.dev/icons?i=idea,figma,postman,cloudflare)
 
 ## 💻・Skills
-
-> My skills :p
 
 ![skills](https://skillicons.dev/icons?i=ts,js,html,css,php,nodejs,sass,mysql,bots,git,github,nuxtjs,vue,adonis)
 ## 💬 Contact me
