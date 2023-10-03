@@ -21,7 +21,7 @@ I am mainly a web developer (fullstack) but I try to learn step by step the desk
 ```js
 const Discord = "PasTrik#0657"
 const Twitter = "@PasTrik_"
-const Email = "contact@illyes.codes"
+const Email = "contact@illyes.fr"
 ```
 <p align="center">
 <a href="https://discord.com/users/508631890190663680">
