@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://illyes.codes" target="blank"><img align="center" width="200" src="./assets/logo-text.svg" class="center"></img></a>
+<a href="https://illyes.fr" target="blank"><img align="center" width="200" src="./assets/logo-text.svg" class="center"></img></a>
 </p>
 <br/>
 
