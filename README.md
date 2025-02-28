@@ -34,7 +34,6 @@ const Email = "contact@illyes.fr"
     <img src="https://skillicons.dev/icons?i=md"/>
 </a>
 </p>
-<br/>
 
 <!--START_SECTION:waka-->
 
@@ -47,7 +46,7 @@ Vue.js           1 min           ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
+<br/>
 <br/>
 
 <details>
