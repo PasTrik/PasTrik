@@ -39,6 +39,9 @@ const Email = "contact@illyes.fr"
 <details>
 <summary>📊 Github stats</summary>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 > Some stats about my GitHub account
 
 <p align="center">
