@@ -36,8 +36,6 @@ const Email = "contact@illyes.fr"
 </p>
 <br/>
 <br/>
-<details>
-<summary>📊 Github stats</summary>
 
 <!--START_SECTION:waka-->
 
@@ -50,6 +48,9 @@ Vue.js           1 min           ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<details>
+<summary>📊 Github stats</summary>
 
 > Some stats about my GitHub account
 
