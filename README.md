@@ -38,11 +38,9 @@ const Email = "contact@illyes.fr"
 <!--START_SECTION:waka-->
 
 ```txt
-C++              3 hrs 8 mins    ████████████████████░░░░░   79.44 %
-ObjectiveC       46 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 %
-platformio       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++          2 hrs 43 mins   ███████████████████▓░░░░░   79.13 %
+ObjectiveC   41 mins         █████░░░░░░░░░░░░░░░░░░░░   20.23 %
+platformio   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
