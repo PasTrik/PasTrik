@@ -38,9 +38,11 @@ const Email = "contact@illyes.fr"
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       31 mins         ████████████████████████▓   98.71 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+JavaScript       31 mins         █████████████████▓░░░░░░░   70.35 %
+Java             9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
+Gradle           2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+Groovy           0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
