@@ -38,7 +38,9 @@ const Email = "contact@illyes.fr"
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java                       4 mins          ███████████████▓░░░░░░░░░   62.34 %
+GitIgnore file             2 mins          █████████▒░░░░░░░░░░░░░░░   37.66 %
+Mixin Json Configuration   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
