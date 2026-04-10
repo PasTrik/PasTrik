@@ -38,7 +38,8 @@ const Email = "contact@illyes.fr"
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   6 mins                █████████████████████████   100.00 %
+Rust   41 mins               ████████████████████████▓   98.31 %
+TOML   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
