@@ -38,11 +38,11 @@ const Email = "contact@illyes.fr"
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript          6 hrs 9 mins          ████████████████████▓░░░░   82.37 %
-YAML                16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Other               14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-JSON                10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Markdown            9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+TypeScript          5 hrs 19 mins         █████████████████▓░░░░░░░   70.20 %
+RMarkdown           34 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+Python              21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Markdown            16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+YAML                16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->
