@@ -38,11 +38,11 @@ const Email = "contact@illyes.fr"
 <!--START_SECTION:waka-->
 
 ```txt
-Swift            2 hrs 6 mins          ███████▒░░░░░░░░░░░░░░░░░   28.77 %
-Markdown         1 hr 24 mins          █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-Rust             1 hr 9 mins           ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-YAML             29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-Git Config       28 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Markdown           3 hrs 55 mins         ███████▓░░░░░░░░░░░░░░░░░   30.63 %
+Swift              1 hr 59 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
+Python             1 hr 21 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+Rust               1 hr 4 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+YAML               1 hr 3 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
 ```
 
 <!--END_SECTION:waka-->
